@@ -1,0 +1,17 @@
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\bin\Debug\Hydroponics GUI.exe.config
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\bin\Debug\Hydroponics GUI.exe
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\bin\Debug\Hydroponics GUI.pdb
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\bin\Debug\Hydroponics GUI.xml
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\obj\Debug\Hydroponics GUI.vbproj.AssemblyReference.cache
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\obj\Debug\Hydroponics_GUI.Form1.resources
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\obj\Debug\Hydroponics_GUI.Resources.resources
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\obj\Debug\Hydroponics GUI.vbproj.GenerateResource.cache
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\obj\Debug\Hydroponics GUI.vbproj.CoreCompileInputs.cache
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\obj\Debug\Hydroponics GUI.exe
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\obj\Debug\Hydroponics GUI.xml
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\obj\Debug\Hydroponics GUI.pdb
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\bin\Debug\aa-DJ\Hydroponics GUI.resources.dll
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\obj\Debug\Hydroponics_GUI.Form1.aa-DJ.resources
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\obj\Debug\aa-DJ\Hydroponics GUI.resources.dll
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\bin\Debug\Guna.UI2.dll
+C:\Users\Frdyrkuu\source\repos\Hydroponics GUI\Hydroponics GUI\obj\Debug\Hydroponics GUI.vbproj.CopyComplete
